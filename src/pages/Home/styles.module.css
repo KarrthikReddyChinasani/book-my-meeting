@@ -1,0 +1,25 @@
+.container {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  row-gap: 48px;
+}
+
+.data {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  column-gap: 16px;
+  flex: 1;
+}
+
+.addDataContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  row-gap: 16px;
+  flex: 1;
+}

@@ -1,0 +1,13 @@
+.body {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.container {
+  flex: 1;
+  padding: 16px;
+  background-color: #f1f1f1;
+  overflow: auto;
+}
